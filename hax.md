@@ -1,0 +1,1 @@
+**Before you can use these homebrew apps and games, you'll need to run an exploit to get unsigned code execution. It doesn't matter which method you use, but I've found [browserhax-xl](https://github.com/zoogie/new-browserhax-XL) to be the best for me. Once you have hax, you can copy these apps and games to the 3ds folder on the sd card and run them from the Homebrew Launcher.**
